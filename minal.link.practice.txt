@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a target="_blank" href="https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q">Youtube</a>
+    <a target="_blank" href="https://www.google.com/search?q=instagram&rlz=1C1RXQR_enIN965IN965&oq=insta&aqs=chrome.1.69i57j0i131i433i512l4j0i433i512j0i131i433j0i131i433i"> instagram </a>
+    <atarget="_blank" href="https://www.google.com/search?gs_ssp=eJzj4tLP1TfIyK1MKy5TYDRgdGDw4khLTE5Nys_PBgBmYAfL&q=facebook&rlz=1C1RXQR_enIN965IN965&oq=fac&aqs=chrome.1.69i57j46i67i131i199i433i465j0i67j0i67i131i433j0i67l4j46i67j0i271.3650j0j15&sourceid=chrome&ie=UTF-8"> facebook</a>
+</body>
+</html>
